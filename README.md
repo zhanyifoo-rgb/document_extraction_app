@@ -1,6 +1,8 @@
 ﻿# AI-Powered Invoice & Receipt Automation
 
-An invoice and receipt processing application built with **Python, FastAPI, PaddleOCR, Ollama, and PostgreSQL**. The application extracts text from uploaded documents, uses a locally running large language model (LLM) to interpret the extracted text, and converts unstructured document content into structured data for validation and storage.
+An invoice and receipt processing application built with **Python, FastAPI, PaddleOCR, Ollama, and PostgreSQL**. The application extracts text from uploaded documents, uses a locally running large language model (LLM) to interpret the extracted text, and converts unstructured document content into structured data for validation and storage. 
+
+Purpose of this app is to speed up manual invoice and receipt data entry works.
 
 ## Features
 
